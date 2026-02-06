@@ -11,10 +11,10 @@ Excel / CSV
 <br>
 What It Does
 <br>
-Cleans and validates raw expense data
-Structures data into tabular format
-Analyzes category-wise and time-based spending
-Generates insights for better budgeting decisions
+Cleans and validates raw expense data<br>
+Structures data into tabular format<br>
+Analyzes category-wise and time-based spending<br>
+Generates insights for better budgeting decisions<br>
 <br>
 Key Learnings
 <br>
